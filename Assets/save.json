@@ -1,0 +1,146 @@
+[
+  {
+    "lives": 3,
+    "collisions": 0,
+    "coinsCollected": 1,
+    "timeElapsed": 9.55621052,
+    "timestamp": null,
+    "highScore": -9.112421
+  },
+  {
+    "lives": 3,
+    "collisions": 0,
+    "coinsCollected": 1,
+    "timeElapsed": 7.195767,
+    "timestamp": null,
+    "highScore": -4.391534
+  },
+  {
+    "lives": 1,
+    "collisions": 0,
+    "coinsCollected": 2,
+    "timeElapsed": 15.7708769,
+    "timestamp": null,
+    "highScore": -11.5417538
+  },
+  {
+    "lives": 0,
+    "collisions": 0,
+    "coinsCollected": 3,
+    "timeElapsed": 22.468811,
+    "timestamp": null,
+    "highScore": -14.9376221
+  },
+  {
+    "lives": 3,
+    "collisions": 0,
+    "coinsCollected": 1,
+    "timeElapsed": 6.096653,
+    "timestamp": null,
+    "highScore": -2.193306
+  },
+  {
+    "lives": 3,
+    "collisions": 0,
+    "coinsCollected": 1,
+    "timeElapsed": 7.19417143,
+    "timestamp": null,
+    "highScore": 15.0
+  },
+  {
+    "lives": 3,
+    "collisions": 0,
+    "coinsCollected": 1,
+    "timeElapsed": 4.974709,
+    "timestamp": null,
+    "highScore": 0.0505819321
+  },
+  {
+    "lives": 3,
+    "collisions": 0,
+    "coinsCollected": 1,
+    "timeElapsed": 5.39431858,
+    "timestamp": null,
+    "highScore": 19.6056824
+  },
+  {
+    "lives": 3,
+    "collisions": 0,
+    "coinsCollected": 1,
+    "timeElapsed": 4.83336258,
+    "timestamp": null,
+    "highScore": 20.1666374
+  },
+  {
+    "lives": 3,
+    "collisions": 0,
+    "coinsCollected": 0,
+    "timeElapsed": 5.113435,
+    "timestamp": null,
+    "highScore": -5.113435
+  },
+  {
+    "lives": 3,
+    "collisions": 0,
+    "coinsCollected": 1,
+    "timeElapsed": 4.8380065,
+    "timestamp": "2025-03-30 19:46:44",
+    "highScore": 20.161993
+  },
+  {
+    "lives": 3,
+    "collisions": 0,
+    "coinsCollected": 3,
+    "timeElapsed": 9.238246,
+    "timestamp": "2025-03-30 20:19:43",
+    "highScore": 65.76176
+  },
+  {
+    "lives": 3,
+    "collisions": 0,
+    "coinsCollected": 3,
+    "timeElapsed": 7.595052,
+    "timestamp": "2025-03-30 20:20:01",
+    "highScore": 67.4049454
+  },
+  {
+    "lives": 1,
+    "collisions": 2,
+    "coinsCollected": 1,
+    "timeElapsed": 7.398424,
+    "timestamp": "2025-03-30 20:36:30",
+    "highScore": 17.6015759
+  },
+  {
+    "lives": 2,
+    "collisions": 1,
+    "coinsCollected": 2,
+    "timeElapsed": 7.61819267,
+    "timestamp": "2025-03-30 20:44:09",
+    "highScore": 42.3818054
+  },
+  {
+    "lives": 3,
+    "collisions": 0,
+    "coinsCollected": 3,
+    "timeElapsed": 10.3591576,
+    "timestamp": "2025-03-30 20:53:05",
+    "highScore": 64.64084
+  },
+  {
+    "lives": 2,
+    "collisions": 1,
+    "coinsCollected": 1,
+    "timeElapsed": 11.33548,
+    "timestamp": "2025-03-30 20:53:26",
+    "highScore": 13.66452
+  },
+  {
+    "lives": 2,
+    "collisions": 1,
+    "coinsCollected": 1,
+    "timeElapsed": 10.854619,
+    "timestamp": "2025-03-30 21:06:38",
+    "highScore": 14.145381
+  }
+]

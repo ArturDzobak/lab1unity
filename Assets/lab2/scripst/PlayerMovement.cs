@@ -1,12 +1,14 @@
 ﻿using UnityEngine;
-
+using System;
+using System.IO;
+using System.Collections.Generic;
 public class PlayerMovement : MonoBehaviour
 {
     public float forwardSpeed = 5f; 
     public float horizontalSpeed = 5f; 
     public float jumpForce = 7f; 
     public LayerMask groundLayer;
-    public float boostSpeed = 50f; 
+    public float boostSpeed = 25f; 
     public float boostDuration = 3f; 
     private float boostTimeLeft = 0f;
 
@@ -16,13 +18,26 @@ public class PlayerMovement : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody>();
+        GameManager.Instance.OnGameOver += HandleGameOver;
+
+    }
+    void OnDestroy()
+    {
+        if (GameManager.Instance != null)
+        {
+            GameManager.Instance.OnGameOver -= HandleGameOver;
+        }
+    }
+    void HandleGameOver()
+    {
+        
     }
 
     void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.name == "Finish")
         {
-            Debug.Log("Фініш!");
+            GameManager.Instance.TriggerGameOver();
         }
     }
 
