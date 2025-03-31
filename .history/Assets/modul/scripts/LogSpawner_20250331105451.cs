@@ -3,6 +3,8 @@ using System;
 
 public class LogSpawner : MonoBehaviour
 {
+
+
     public GameObject logPrefab; 
     public Transform spawnPoint; 
     public float spawnForce = 5f;
@@ -18,7 +20,7 @@ public class LogSpawner : MonoBehaviour
 
         Vector3 projection = (dotProductAB / dotProductBB) * b;
 
-        Debug.Log("–ü—Ä–æ–µ–∫—Ü—ñ—è –≤–µ–∫—Ç–æ—Ä–∞  a –Ω–∞ b: " + projection);
+        Debug.Log("œÓ∫Íˆ≥ˇ a Ì‡ b: " + projection);
     }
 
     void Update()

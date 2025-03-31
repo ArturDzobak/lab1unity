@@ -18,7 +18,7 @@ public class LogSpawner : MonoBehaviour
 
         Vector3 projection = (dotProductAB / dotProductBB) * b;
 
-        Debug.Log("Проекція вектора  a на b: " + projection);
+        Debug.Log("������� a �� b: " + projection);
     }
 
     void Update()
