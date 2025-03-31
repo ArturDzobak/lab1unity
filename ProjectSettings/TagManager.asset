@@ -8,6 +8,7 @@ TagManager:
   - Belt
   - GameManager
   - Wall
+  - LogPrefub
   layers:
   - Default
   - TransparentFX

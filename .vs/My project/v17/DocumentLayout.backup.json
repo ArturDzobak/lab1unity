@@ -11,16 +11,16 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\lab2\\scripst\\CollisionCounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0410\u0440\u0442\u0443\u0440\\My project\\Assets\\lab2\\scripst\\Pastka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\lab2\\scripst\\Pastka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0410\u0440\u0442\u0443\u0440\\My project\\Assets\\lab2\\scripst\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\lab2\\scripst\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0410\u0440\u0442\u0443\u0440\\My project\\Assets\\lab2\\scripst\\Coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\lab2\\scripst\\Coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0410\u0440\u0442\u0443\u0440\\My project\\Assets\\lab2\\scripst\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\lab2\\scripst\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0410\u0440\u0442\u0443\u0440\\My project\\Assets\\lab2\\scripst\\Pastka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\lab2\\scripst\\Pastka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0410\u0440\u0442\u0443\u0440\\My project\\Assets\\SpiralMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -56,9 +56,9 @@
               "RelativeDocumentMoniker": "Assets\\lab2\\scripst\\CollisionCounter.cs",
               "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\\My project\\Assets\\lab2\\scripst\\CollisionCounter.cs",
               "RelativeToolTip": "Assets\\lab2\\scripst\\CollisionCounter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T17:58:29.172Z",
+              "WhenOpened": "2025-03-30T17:59:42.69Z",
               "EditorCaption": ""
             },
             {
@@ -69,22 +69,23 @@
               "RelativeDocumentMoniker": "Assets\\lab2\\scripst\\GameManager.cs",
               "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\\My project\\Assets\\lab2\\scripst\\GameManager.cs",
               "RelativeToolTip": "Assets\\lab2\\scripst\\GameManager.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAAAEsAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T14:50:56.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Pastka.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\\My project\\Assets\\lab2\\scripst\\Pastka.cs",
               "RelativeDocumentMoniker": "Assets\\lab2\\scripst\\Pastka.cs",
               "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\\My project\\Assets\\lab2\\scripst\\Pastka.cs",
               "RelativeToolTip": "Assets\\lab2\\scripst\\Pastka.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T14:48:54.46Z"
+              "WhenOpened": "2025-03-30T14:48:54.46Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -94,21 +95,23 @@
               "RelativeDocumentMoniker": "Assets\\lab2\\scripst\\Coin.cs",
               "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\\My project\\Assets\\lab2\\scripst\\Coin.cs",
               "RelativeToolTip": "Assets\\lab2\\scripst\\Coin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T14:19:54.086Z"
+              "WhenOpened": "2025-03-30T14:19:54.086Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\\My project\\Assets\\lab2\\scripst\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\lab2\\scripst\\PlayerMovement.cs",
               "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0443\u0440\\My project\\Assets\\lab2\\scripst\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\lab2\\scripst\\PlayerMovement.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T16:29:41.379Z"
+              "WhenOpened": "2025-03-21T16:29:41.379Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
